@@ -1,5 +1,14 @@
-p {
-  color: green;
-  font-size: 150px;
-  text-align: center;
+html{
+  background-color:#DDDD63
+  
 }
+
+p {
+  color: #B7EC82;
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Waterfall', cursive;
+}
+
+
+
