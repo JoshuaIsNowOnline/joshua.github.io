@@ -21,7 +21,11 @@ p {
   font-size: 100px;
   text-align: center;
   font-family: 'Waterfall', cursive;
-  
+}
+
+img {
+  display: block;
+  margin: 0 auto;
 }
 
 
