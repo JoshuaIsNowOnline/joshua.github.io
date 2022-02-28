@@ -15,10 +15,13 @@ body{
 
 
 p {
+  margin: 0;
+  padding: 20px 0;
   color:#8B5408;
   font-size: 100px;
   text-align: center;
   font-family: 'Waterfall', cursive;
+  
 }
 
 
