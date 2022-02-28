@@ -1,14 +1,21 @@
 html{
-  background-color:#DDDD63
+  background-color:#FEFCFA
   
 }
 
 body{
+  width: 600px;
+  margin: 0 auto;
+  background-color:#F6DBB5;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+ 
+}
   
 
 
 p {
-  color:#A063DD;
+  color:#8B5408;
   font-size: 100px;
   text-align: center;
   font-family: 'Waterfall', cursive;
