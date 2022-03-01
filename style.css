@@ -12,17 +12,23 @@ body{
  
 }
   
-
-
-p {
-  color:#8B5408;
+h1 {
+  color:Green;
   font-size: 100px;
   text-align: center;
   font-family: 'Waterfall', cursive;
 }
 
+p {
+  color:#8B5408;
+  font-size: 30px;
+  text-align: left;
+  font-family: 'Waterfall', cursive;
+}
+
 li {
-  color:#57C7EA;
+  font-size: 20px;
+  color:black;
   font-family:'Oxanium', cursive;
 }
 
