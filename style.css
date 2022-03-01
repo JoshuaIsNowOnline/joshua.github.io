@@ -21,6 +21,11 @@ p {
   font-family: 'Waterfall', cursive;
 }
 
+ol {
+  color:#57C7EA
+  font-family:'Waterfall', cursive;;
+}
+
 /*img {
   display: block;
   margin: 0 auto;
