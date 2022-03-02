@@ -1,40 +1,45 @@
-html{
-  background-color:#FEFCFA;
-  
-}
 
 body{
-  width: 600px;
-  margin: 0 auto;
   background-color:#F6DBB5;
-  padding: 0 20px 20px 20px;
-  border: 5px solid black;
- 
 }
+
+.a {
+  font-size:30px;
+  font-family: 'Oxanium', cursive;
+  font-family: 'Texturina', serif;
+  font-family: 'Waterfall', cursive;
+}
+
+p{
+  font-size: 18px;
   
-h1 {
-  color:Green;
-  font-size: 100px;
-  text-align: center;
-  font-family: 'Waterfall', cursive;
 }
 
-p {
-  color:#8B5408;
-  font-size: 30px;
-  font-family: 'Waterfall', cursive;
+ol>li{
+  padding:6px;
+  background-color: beige;
+  list-style:circle;
+  border-radius: 10px;
 }
 
-li {
-  font-size: 20px;
-  color:black;
-  font-family:'Oxanium', cursive;
+a{
+  font-size: larger;
+  color: rgb(19, 133, 226);
+  text-decoration: none;
 }
 
-img {
-  display: block;
-  margin: 0 auto;
+.contain{
+  display:flex;
+  width: 500;
+
 }
+
+.ig,.fb{
+  width:150;
+}
+
+
+  
 
 
 
